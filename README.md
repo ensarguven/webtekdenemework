@@ -1,3 +1,4 @@
 # webtekdenemework
 
-html,css ve javascprit kullanarak sayfa oluşturma.
+## html,css ve javascprit kullanarak sayfa oluşturma.
+### responsive sayfa oluşturma.
